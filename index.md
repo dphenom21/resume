@@ -1,30 +1,31 @@
 
-### Anahita Taheri
+### Amirhoseyn Saharkhiz
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
++ name: Amirhoseyn
++ last name : Saharkhiz
++ Date of birth : 1998/june/22
++ location : Tehran ,Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Back end developer
++ Laravel framework
++ PHP development
++ Front end development(medicore)
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Shahed high school
++ Bachelor of science : Computer Engineering
+_ Azad University of Rasht 
 
 ### language
 
@@ -35,16 +36,10 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
-
-### working Experience
-
----
-+ I am working in Caltural,Turism & Handicrafts Minister.
-
++ Game
++ Movies
++ Anime 
++ Manga
 
 
 
