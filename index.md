@@ -1,7 +1,6 @@
 --- 
 
 layout: default
-theme: jekyll-theme-minimal
 
 ---
 ### Amirhoseyn Saharkhiz
